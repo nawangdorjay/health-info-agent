@@ -1,5 +1,7 @@
 # 🏥 Seva Doctor — Remote Area Health Info Agent
 
+![Screenshot](screenshots/output.png)
+
 An AI-powered health information agent providing guidance, hospital locations, emergency contacts, and altitude health advice for remote and hilly regions of India.
 
 Built by [Nawang Dorjay](https://github.com/nawangdorjay) — from Ladakh, for **GSSoC 2026** (Agents for India Track).
