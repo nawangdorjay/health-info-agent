@@ -1,0 +1,268 @@
+{
+  "fever": {
+    "name": "Fever (बुखार)",
+    "description": "Body temperature above 98.6°F (37°C). Common symptom of infection.",
+    "what_to_do": [
+      "Rest and drink plenty of fluids (water, ORS, coconut water)",
+      "Take paracetamol (500mg for adults, dose by weight for children)",
+      "Use wet cloth on forehead for comfort",
+      "Monitor temperature every 4-6 hours",
+      "Wear light clothing, don't over-bundle"
+    ],
+    "when_to_see_doctor": [
+      "Temperature above 103°F (39.4°C)",
+      "Fever lasting more than 3 days",
+      "Fever with severe headache and stiff neck",
+      "Fever with rash",
+      "Fever in children under 3 months",
+      "Fever with difficulty breathing"
+    ],
+    "warning_signs": ["Rigors (severe shivering)", "Confusion", "Seizures", "Dehydration"]
+  },
+  "diarrhea": {
+    "name": "Diarrhea (दस्त/उल्टी)",
+    "description": "Loose, watery stools occurring 3+ times per day. Can cause dehydration quickly.",
+    "what_to_do": [
+      "ORS (Oral Rehydration Solution) — most important! Mix 1 sachet in 1 litre clean water",
+      "Continue breastfeeding for infants",
+      "Drink boiled and cooled water",
+      "Eat light food — rice, banana, toast, curd",
+      "Avoid spicy, oily, and milk-based food",
+      "Zinc tablet (20mg for children) for 10-14 days helps"
+    ],
+    "when_to_see_doctor": [
+      "Blood in stool",
+      "Signs of dehydration (dry mouth, no tears, sunken eyes, less urine)",
+      "High fever with diarrhea",
+      "Not able to drink fluids",
+      "Lasting more than 3 days",
+      "In children under 2 years"
+    ],
+    "ors_recipe": "6 level teaspoons sugar + 1/2 level teaspoon salt in 1 litre clean boiled water",
+    "warning_signs": ["Very thirsty", "Dizziness on standing", "No urine for 6+ hours", "Lethargy"]
+  },
+  "cough and cold": {
+    "name": "Cough & Cold (खांसी-जुकाम)",
+    "description": "Common viral infection. Usually resolves in 7-10 days.",
+    "what_to_do": [
+      "Rest and stay warm",
+      "Drink warm water, tea with ginger and honey",
+      "Steam inhalation (cover head with towel over hot water)",
+      "Gargle with warm salt water for sore throat",
+      "Honey (1-2 teaspoons) for cough — NOT for children under 1 year",
+      "Keep room ventilated"
+    ],
+    "when_to_see_doctor": [
+      "Cough lasting more than 2 weeks",
+      "Coughing up blood",
+      "High fever (>101°F) for more than 3 days",
+      "Difficulty breathing or wheezing",
+      "Green/yellow sputum",
+      "Chest pain when coughing"
+    ]
+  },
+  "headache": {
+    "name": "Headache (सिरदर्द)",
+    "description": "Pain in any region of the head. Usually not serious, but can indicate underlying issues.",
+    "what_to_do": [
+      "Rest in a quiet, dark room",
+      "Apply cold or warm compress to forehead",
+      "Drink water — dehydration is a common cause",
+      "Take paracetamol (500mg) or ibuprofen (400mg)",
+      "Massage temples gently",
+      "Check if you've eaten — low blood sugar can cause headache"
+    ],
+    "when_to_see_doctor": [
+      "Sudden severe headache ('worst headache of your life')",
+      "Headache with fever and stiff neck",
+      "Headache after head injury",
+      "Headache with vision changes",
+      "Headache with weakness or numbness on one side",
+      "Daily headaches for more than 2 weeks"
+    ]
+  },
+  "stomach pain": {
+    "name": "Stomach Pain (पेट दर्द)",
+    "description": "Pain or discomfort in the abdomen. Can have many causes.",
+    "what_to_do": [
+      "Rest and avoid heavy food",
+      "Drink clear fluids — water, clear soup",
+      "Apply warm compress to abdomen",
+      "Avoid spicy, oily, and gas-producing food",
+      "Antacid (for acidity): Gelusil, Digene"
+    ],
+    "when_to_see_doctor": [
+      "Severe pain, can't stand up straight",
+      "Pain with vomiting blood",
+      "Blood in stool (black or red)",
+      "Pain with high fever",
+      "Pain in right lower abdomen (appendix risk)",
+      "Pain after injury",
+      "Pregnant with abdominal pain"
+    ]
+  },
+  "chest pain": {
+    "name": "Chest Pain (छाती में दर्द)",
+    "description": "⚠️ Can be serious. If related to heart, every minute counts.",
+    "what_to_do": [
+      "⚠️ If pain is crushing, radiating to arm/jaw, with sweating — CALL 108 IMMEDIATELY",
+      "Stop all activity, sit or lie down",
+      "Chew one aspirin (325mg) if available and not allergic",
+      "Loosen tight clothing"
+    ],
+    "when_to_see_doctor": [
+      "⚠️ ANY chest pain should be evaluated by a doctor",
+      "Pain spreading to arm, jaw, neck, or back",
+      "Shortness of breath",
+      "Nausea, dizziness, sweating with chest pain",
+      "Pain worsens with activity",
+      "Sudden onset chest tightness"
+    ],
+    "emergency": "Call 108 (ambulance) or 102 immediately. Time is critical for heart attacks."
+  },
+  "skin rash": {
+    "name": "Skin Rash / Allergy (त्वचा पर दाने)",
+    "description": "Red, itchy, or irritated skin. Can be due to allergy, infection, or irritation.",
+    "what_to_do": [
+      "Keep the area clean and dry",
+      "Avoid scratching",
+      "Apply calamine lotion for itching",
+      "Wear loose, cotton clothing",
+      "Avoid known allergens (new soap, food, etc.)",
+      "Cetirizine tablet for allergic rashes"
+    ],
+    "when_to_see_doctor": [
+      "Rash spreading rapidly",
+      "Rash with fever",
+      "Blisters or open sores",
+      "Difficulty breathing with rash (allergic reaction)",
+      "Rash after starting new medication",
+      "Rash not improving after 1 week"
+    ]
+  },
+  "burns": {
+    "name": "Burns (जलना)",
+    "description": "Skin damage from heat, chemicals, or electricity.",
+    "what_to_do": [
+      "Cool the burn under running cool water for 10-20 minutes immediately",
+      "Remove jewelry/clothing near burn before swelling",
+      "DO NOT apply ice, butter, toothpaste, or any paste",
+      "Cover with clean, non-stick bandage or clean cloth",
+      "Take paracetamol for pain",
+      "Keep burned area elevated if possible"
+    ],
+    "when_to_see_doctor": [
+      "Burn larger than your palm",
+      "Burn on face, hands, feet, groin, or joints",
+      "Burn blisters or is white/charred",
+      "Chemical or electrical burn",
+      "Burn in child or elderly person",
+      "Signs of infection (increased pain, swelling, pus)"
+    ]
+  },
+  "breathing difficulty": {
+    "name": "Breathing Difficulty (सांस लेने में तकलीफ)",
+    "description": "⚠️ Can be life-threatening. Act quickly.",
+    "what_to_do": [
+      "⚠️ If severe — call 108 IMMEDIATELY",
+      "Sit upright, don't lie down",
+      "Loosen tight clothing",
+      "Open windows for fresh air",
+      "If known asthma, use inhaler",
+      "Stay calm — panic makes breathing harder"
+    ],
+    "when_to_see_doctor": [
+      "⚠️ ALWAYS seek immediate medical help for breathing difficulty",
+      "Lips or face turning blue",
+      "Cannot speak in full sentences",
+      "Wheezing sound when breathing",
+      "Chest tightness",
+      "Breathing difficulty in children"
+    ],
+    "emergency": "Call 108 immediately. This can be a medical emergency."
+  },
+  "malaria symptoms": {
+    "name": "Malaria (मलेरिया)",
+    "description": "Mosquito-borne disease causing fever, chills, and flu-like symptoms.",
+    "what_to_do": [
+      "Get blood test (Rapid Diagnostic Test or blood smear) immediately",
+      "Take prescribed anti-malarial drugs — complete full course",
+      "Rest and drink plenty of fluids",
+      "Use mosquito net even during day",
+      "Take paracetamol for fever"
+    ],
+    "when_to_see_doctor": [
+      "Fever with chills that come and go in cycles",
+      "Fever after visiting forest/malaria-prone area",
+      "Severe headache with fever",
+      "Yellow skin/eyes (jaundice)",
+      "Dark urine",
+      "Extreme fatigue"
+    ],
+    "prevention": [
+      "Sleep under insecticide-treated mosquito nets",
+      "Use mosquito repellent cream/coils",
+      "Wear long sleeves in the evening",
+      "Remove stagnant water around home"
+    ]
+  },
+  "dengue symptoms": {
+    "name": "Dengue (डेंगू)",
+    "description": "Mosquito-borne viral disease. Can be severe (dengue hemorrhagic fever).",
+    "what_to_do": [
+      "Get blood test (NS1 antigen, CBC) immediately",
+      "Drink plenty of fluids — water, ORS, juice",
+      "Take paracetamol for fever — AVOID aspirin and ibuprofen",
+      "Monitor for warning signs daily",
+      "Rest, don't exert yourself"
+    ],
+    "when_to_see_doctor": [
+      "⚠️ HIGH FEVER WITH SEVERE PAIN — seek immediate medical help",
+      "Sudden high fever (104°F/40°C)",
+      "Severe headache, pain behind eyes",
+      "Severe joint and muscle pain ('breakbone fever')",
+      "Skin rash appearing 2-5 days after fever",
+      "Easy bruising, bleeding gums, nosebleeds"
+    ],
+    "warning_signs": [
+      "Severe abdominal pain",
+      "Persistent vomiting",
+      "Bleeding from gums/nose",
+      "Blood in vomit or stool",
+      "Restlessness or drowsiness",
+      "Rapid drop in platelet count"
+    ],
+    "prevention": [
+      "Eliminate stagnant water (flower pots, tires, coolers)",
+      "Dengue mosquito (Aedes) bites during DAYTIME",
+      "Use full-sleeve clothing",
+      "Use mosquito repellent",
+      "Clean water storage weekly"
+    ]
+  },
+  "typhoid": {
+    "name": "Typhoid (टायफाइड)",
+    "description": "Bacterial infection from contaminated food/water. Common in areas with poor sanitation.",
+    "what_to_do": [
+      "Get blood test (Widal test or blood culture)",
+      "Complete full course of antibiotics as prescribed",
+      "Drink only boiled/purified water",
+      "Eat light, soft food — khichdi, dal, banana",
+      "Rest fully, don't rush back to work"
+    ],
+    "when_to_see_doctor": [
+      "Gradually increasing fever over several days",
+      "Headache with fever",
+      "Stomach pain and constipation or diarrhea",
+      "Rose-colored spots on chest/abdomen",
+      "Extreme fatigue and weakness"
+    ],
+    "prevention": [
+      "Drink only purified/boiled water",
+      "Wash hands before eating",
+      "Eat freshly cooked hot food",
+      "Avoid street food with questionable hygiene",
+      "Typhoid vaccine available — consult doctor"
+    ]
+  }
+}

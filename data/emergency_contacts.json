@@ -1,0 +1,100 @@
+{
+  "national": {
+    "ambulance": "108",
+    "health_helpline": "102",
+    "emergency": "112",
+    "police": "100",
+    "fire": "101",
+    "women_helpline": "1091",
+    "child_helpline": "1098",
+    "mental_health": "08046110007 (iCall) / 9152987821 (Vandrevala)",
+    "blood_bank_info": "104",
+    "covid_helpline": "1075",
+    "poison_control": "1066",
+    "disaster_management": "1078"
+  },
+  "ladakh": {
+    "ambulance": "108",
+    "district_hospital_leh": "01982-252014",
+    "snm_hospital_leh": "01982-252247",
+    "phc_diskit_nubra": "01980-222220",
+    "phc_khaltse": "01982-242222",
+    "emergency_leh": "108",
+    "altitude_rescue": "01982-252014",
+    "note": "For serious altitude sickness: SNM Hospital Leh has oxygen and ICU facilities. Helicopter evacuation available through ALG (Air Landing Ground) for extreme emergencies."
+  },
+  "jammu and kashmir": {
+    "ambulance": "108",
+    "health_helpline": "104",
+    "emergency": "112",
+    "govt_medical_college_jammu": "0191-2584245",
+    "govt_medical_college_sr": "0194-2401013",
+    "smhs_hospital": "0194-2455440"
+  },
+  "uttarakhand": {
+    "ambulance": "108",
+    "health_helpline": "104",
+    "emergency": "112",
+    "aiims_rishikesh": "0135-2462916",
+    "himalayan_hospital": "0135-2471100",
+    "note": "For mountain emergencies in Kedarnath/Badrinath: contact District Disaster Management at 1077"
+  },
+  "himachal pradesh": {
+    "ambulance": "108",
+    "health_helpline": "104",
+    "emergency": "112",
+    "igmc_shimla": "0177-2804251",
+    "note": "For Spiti/Lahaul emergencies: helicopter rescue through 108/1077. Satellite phone at Kaza PHC."
+  },
+  "assam": {
+    "ambulance": "108",
+    "health_helpline": "104",
+    "emergency": "112",
+    "gmch_guwahati": "0361-2130229",
+    "nemcare": "0361-2340001"
+  },
+  "manipur": {
+    "ambulance": "108",
+    "health_helpline": "104",
+    "emergency": "112",
+    "jnim_imphal": "0385-2414610"
+  },
+  "meghalaya": {
+    "ambulance": "108",
+    "health_helpline": "104",
+    "emergency": "112",
+    "neh_shillong": "0364-2223455"
+  },
+  "sikkim": {
+    "ambulance": "108",
+    "health_helpline": "104",
+    "emergency": "112",
+    "stnm_gangtok": "03592-202025",
+    "note": "For North Sikkim/Lachen/Lachung: limited connectivity. Carry altitude sickness medicines."
+  },
+  "arunachal pradesh": {
+    "ambulance": "108",
+    "health_helpline": "104",
+    "emergency": "112",
+    "rkm_hospital": "0360-2212260",
+    "note": "Many remote areas have limited healthcare. Plan ahead. Carry basic first aid kit."
+  },
+  "mizoram": {
+    "ambulance": "108",
+    "health_helpline": "104",
+    "emergency": "112",
+    "civil_hospital_aizawl": "0389-2312011"
+  },
+  "nagaland": {
+    "ambulance": "108",
+    "health_helpline": "104",
+    "emergency": "112",
+    "naga_hospital_kohima": "0370-2290241"
+  },
+  "tripura": {
+    "ambulance": "108",
+    "health_helpline": "104",
+    "emergency": "112",
+    "agmc_agartala": "0381-2312011"
+  }
+}

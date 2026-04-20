@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Ayushman Bharat — PM-JAY (Pradhan Mantri Jan Arogya Yojana)",
+    "description": "Free health insurance up to ₹5 lakh per family per year for secondary and tertiary hospitalization. Covers 1,900+ procedures.",
+    "eligibility": "Families identified from SECC 2011 data. Check eligibility at mera.pmjay.gov.in or call 14555.",
+    "how_to_get": "No enrollment needed if eligible. Show Aadhaar at any empanelled hospital. Ayushman Card can be made at CSC or hospital.",
+    "keywords": ["insurance", "free treatment", "hospital", "surgery", "card", "ayushman", "5 lakh"],
+    "helpline": "14555",
+    "link": "https://pmjay.gov.in"
+  },
+  {
+    "name": "Janani Suraksha Yojana (JSY)",
+    "description": "Cash assistance for pregnant women delivering in government health institutions. Promotes institutional delivery.",
+    "eligibility": "Pregnant women, especially BPL families. Amount varies by state (₹600-₹1,400).",
+    "how_to_get": "Register at nearest ANM/ASHA/PHC during pregnancy. Deliver at government hospital.",
+    "keywords": ["pregnancy", "delivery", "maternity", "mother", "baby", "birth", "woman"],
+    "helpline": "104",
+    "link": null
+  },
+  {
+    "name": "Jan Aushadhi Scheme (PMBJP)",
+    "description": "Quality generic medicines at 50-90% cheaper than branded. Available at 9,000+ Jan Aushadhi Kendras across India.",
+    "eligibility": "Everyone — no eligibility criteria.",
+    "how_to_get": "Find nearest store at janaushadhi.gov.in or call 1800-180-6060.",
+    "keywords": ["medicine", "cheap", "generic", "pharmacy", "drug", "tablet", "store"],
+    "helpline": "1800-180-6060",
+    "link": "https://janaushadhi.gov.in"
+  },
+  {
+    "name": "RNTCP / NTEP (National TB Elimination Programme)",
+    "description": "FREE testing and treatment for Tuberculosis. Includes ₹500/month nutrition support (Nikshay Poshan).",
+    "eligibility": "Anyone with TB symptoms. All types of TB covered.",
+    "how_to_get": "Visit any government health facility. Free sputum test. Free medicines for 6+ months.",
+    "keywords": ["tb", "tuberculosis", "cough", "free treatment", "medicine"],
+    "helpline": "1800-11-6666",
+    "link": "https://ntep.in"
+  },
+  {
+    "name": "National AIDS Control Programme (NACP)",
+    "description": "Free HIV testing and antiretroviral treatment (ART) at government centres. Confidential testing.",
+    "eligibility": "Anyone can get tested. Free ART for all HIV+ patients.",
+    "how_to_get": "Visit any ICTC (Integrated Counselling and Testing Centre) at district hospitals. Free and confidential.",
+    "keywords": ["hiv", "aids", "test", "art", "treatment", "confidential"],
+    "helpline": "1097 (AIDS Helpline)",
+    "link": "https://naco.gov.in"
+  },
+  {
+    "name": "Universal Immunization Programme (UIP)",
+    "description": "Free vaccination for children and pregnant women against 12 vaccine-preventable diseases.",
+    "eligibility": "All children 0-5 years and pregnant women.",
+    "how_to_get": "Visit nearest PHC/ASHA/Anganwadi centre on immunization day (every Wednesday/RBI day).",
+    "keywords": ["vaccine", "immunization", "child", "baby", "polio", "measles", "injection"],
+    "helpline": "104",
+    "link": null
+  }
+]

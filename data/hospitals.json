@@ -1,0 +1,201 @@
+{
+  "leh ladakh": [
+    {
+      "name": "SNM Hospital (Sonam Norboo Memorial Hospital)",
+      "type": "hospital",
+      "level": "District Hospital",
+      "address": "Leh, Ladakh 194101",
+      "phone": "01982-252247",
+      "services": [
+        "Emergency",
+        "ICU",
+        "Oxygen",
+        "X-Ray",
+        "Lab",
+        "Surgery",
+        "Maternity"
+      ],
+      "notes": "Main hospital in Leh. Has oxygen and ICU for altitude emergencies. Helicopter evacuation arranged here.",
+      "coordinates": "34.1526, 77.5771"
+    },
+    {
+      "name": "PHC Diskit (Nubra Valley)",
+      "type": "phc",
+      "level": "Primary Health Centre",
+      "address": "Diskit, Nubra Valley",
+      "phone": "01980-222220",
+      "services": [
+        "Basic OPD",
+        "Emergency first aid",
+        "Maternity",
+        "Vaccination"
+      ],
+      "notes": "Nearest health facility for Nubra Valley. Limited specialist care. Refer serious cases to Leh.",
+      "coordinates": "34.5378, 77.5500"
+    },
+    {
+      "name": "PHC Tangtse",
+      "type": "phc",
+      "level": "Primary Health Centre",
+      "address": "Tangtse, near Pangong Lake",
+      "phone": "01982-247207",
+      "services": [
+        "Basic OPD",
+        "Emergency first aid",
+        "Oxygen"
+      ],
+      "notes": "For tourists visiting Pangong Lake area. Altitude: 4,350m.",
+      "coordinates": "33.9500, 78.2500"
+    },
+    {
+      "name": "PHC Kargil",
+      "type": "hospital",
+      "level": "Sub-District Hospital",
+      "address": "Kargil, Ladakh",
+      "phone": "01985-232223",
+      "services": [
+        "Emergency",
+        "OPD",
+        "Lab",
+        "X-Ray",
+        "Maternity"
+      ],
+      "notes": "Main hospital for Kargil district.",
+      "coordinates": "34.5539, 76.1300"
+    }
+  ],
+  "delhi ncr": [
+    {
+      "name": "AIIMS Delhi",
+      "type": "hospital",
+      "level": "Super Specialty",
+      "address": "Sri Aurobindo Marg, Ansari Nagar, New Delhi 110029",
+      "phone": "011-26588500",
+      "services": [
+        "All specialties",
+        "Emergency",
+        "Trauma",
+        "Free treatment for poor"
+      ],
+      "notes": "Premier government hospital. Long wait times. Emergency: open 24/7.",
+      "coordinates": "28.5672, 77.2100"
+    },
+    {
+      "name": "Safdarjung Hospital",
+      "type": "hospital",
+      "level": "Government Multi-specialty",
+      "address": "Ansari Nagar West, New Delhi 110029",
+      "phone": "011-26707437",
+      "services": [
+        "All specialties",
+        "Emergency",
+        "Trauma Centre"
+      ],
+      "notes": "Large government hospital. Free OPD and emergency services.",
+      "coordinates": "28.5698, 77.2080"
+    }
+  ],
+  "shimla himachal": [
+    {
+      "name": "IGMC Shimla",
+      "type": "hospital",
+      "level": "Government Medical College",
+      "address": "Shimla, Himachal Pradesh 171001",
+      "phone": "0177-2804251",
+      "services": [
+        "Emergency",
+        "Multi-specialty",
+        "ICU",
+        "Lab"
+      ],
+      "notes": "Main government hospital for Shimla and surrounding areas.",
+      "coordinates": "31.1048, 77.1734"
+    }
+  ],
+  "guwahati assam": [
+    {
+      "name": "GMCH Guwahati",
+      "type": "hospital",
+      "level": "Government Medical College",
+      "address": "Bhangagarh, Guwahati, Assam 781032",
+      "phone": "0361-2130229",
+      "services": [
+        "Emergency",
+        "All specialties",
+        "ICU",
+        "Trauma"
+      ],
+      "notes": "Largest government hospital in Assam.",
+      "coordinates": "26.1445, 91.7362"
+    }
+  ],
+  "gangtok sikkim": [
+    {
+      "name": "STNM Hospital",
+      "type": "hospital",
+      "level": "Government Multi-specialty",
+      "address": "Sochaygang, Gangtok, Sikkim 737101",
+      "phone": "03592-202025",
+      "services": [
+        "Emergency",
+        "OPD",
+        "Lab",
+        "Surgery"
+      ],
+      "notes": "Main hospital in Gangtok. For North Sikkim, plan evacuation to Gangtok.",
+      "coordinates": "27.3389, 88.6065"
+    }
+  ],
+  "srinagar kashmir": [
+    {
+      "name": "SMHS Hospital",
+      "type": "hospital",
+      "level": "Government Multi-specialty",
+      "address": "Srinagar, Jammu & Kashmir 190010",
+      "phone": "0194-2455440",
+      "services": [
+        "Emergency",
+        "All specialties",
+        "ICU",
+        "Trauma"
+      ],
+      "notes": "Main hospital in Srinagar valley.",
+      "coordinates": "34.0837, 74.7973"
+    }
+  ],
+  "dehradun uttarakhand": [
+    {
+      "name": "AIIMS Rishikesh",
+      "type": "hospital",
+      "level": "Super Specialty",
+      "address": "Virbhadra Road, Rishikesh, Uttarakhand 249201",
+      "phone": "0135-2462916",
+      "services": [
+        "Emergency",
+        "All specialties",
+        "ICU",
+        "Trauma",
+        "Free treatment"
+      ],
+      "notes": "Major referral centre for hill districts.",
+      "coordinates": "30.0869, 78.2676"
+    }
+  ],
+  "nubra valley": [
+    {
+      "name": "PHC Diskit (Nubra Valley)",
+      "type": "phc",
+      "level": "Primary Health Centre",
+      "address": "Diskit, Nubra Valley",
+      "phone": "01980-222220",
+      "services": [
+        "Basic OPD",
+        "Emergency first aid",
+        "Maternity",
+        "Vaccination"
+      ],
+      "notes": "Nearest health facility for Nubra Valley. Limited specialist care. Refer serious cases to Leh.",
+      "coordinates": "34.5378, 77.5500"
+    }
+  ]
+}

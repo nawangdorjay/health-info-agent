@@ -1,0 +1,104 @@
+{
+  "dengue": {
+    "name": "Dengue Fever",
+    "caused_by": "Dengue virus (spread by Aedes mosquito bite)",
+    "symptoms": ["High fever (104°F/40°C)", "Severe headache", "Pain behind eyes", "Joint and muscle pain", "Skin rash", "Nausea/vomiting", "Easy bruising"],
+    "prevention": [
+      "Remove stagnant water (flower pots, tires, coolers, coconut shells)",
+      "Use mosquito repellent — Aedes bites during DAYTIME",
+      "Wear full-sleeve clothing",
+      "Use window screens",
+      "Clean and change water in coolers weekly",
+      "Community fogging during outbreaks"
+    ],
+    "treatment": "No specific antiviral. Supportive care: fluids, paracetamol. AVOID aspirin/ibuprofen. Monitor platelet count. Hospitalization if warning signs.",
+    "when_to_hospital": "Severe abdominal pain, persistent vomiting, bleeding, rapid drop in platelets, lethargy/restlessness.",
+    "myths": [
+      "❌ Papaya leaf juice cures dengue — NOT proven, but harmless as supplement",
+      "❌ Dengue only spreads at night — FALSE, Aedes bites in daytime",
+      "❌ You can only get dengue once — FALSE, can get it 4 times (4 serotypes)",
+      "❌ Dengue patients need complete isolation — FALSE, not person-to-person, only mosquito-to-person"
+    ]
+  },
+  "malaria": {
+    "name": "Malaria",
+    "caused_by": "Plasmodium parasite (spread by Anopheles mosquito bite)",
+    "symptoms": ["Cyclical fever with chills", "Sweating", "Headache", "Nausea", "Body ache", "Fatigue", "Anemia"],
+    "prevention": [
+      "Sleep under insecticide-treated bed nets (ITNs)",
+      "Use mosquito coils/repellent in evenings",
+      "Wear long sleeves after sunset",
+      "Indoor residual spraying (IRS) in endemic areas",
+      "Remove stagnant water"
+    ],
+    "treatment": "Anti-malarial drugs (Artemisinin-based Combination Therapy). Complete full course even if feeling better.",
+    "when_to_hospital": "Severe malaria: confusion, seizures, difficulty breathing, jaundice, dark urine. Plasmodium falciparum can be fatal.",
+    "tests": "Blood smear microscopy or Rapid Diagnostic Test (RDT) at PHC/district hospital."
+  },
+  "tuberculosis": {
+    "name": "Tuberculosis (TB)",
+    "caused_by": "Mycobacterium tuberculosis (airborne — spreads through coughing/sneezing)",
+    "symptoms": ["Cough for >2 weeks", "Coughing up blood", "Weight loss", "Night sweats", "Fever (especially evening)", "Fatigue", "Chest pain"],
+    "prevention": [
+      "BCG vaccine at birth",
+      "Cover mouth when coughing",
+      "Ensure good ventilation in homes",
+      "Close contacts of TB patients should be screened",
+      "Complete TB treatment fully — don't stop early"
+    ],
+    "treatment": "FREE under RNTCP/NTEP. 6-month course of multiple antibiotics. Must complete full course — stopping early causes drug resistance.",
+    "when_to_hospital": "Cough >2 weeks with weight loss/night sweats. Get free testing at any government health facility.",
+    "govt_program": "National TB Elimination Programme (NTEP) — free testing and treatment at all government hospitals and PHCs. Nikshay Poshan: ₹500/month nutrition support during treatment."
+  },
+  "diabetes": {
+    "name": "Diabetes (मधुमेह)",
+    "caused_by": "High blood sugar — either insufficient insulin (Type 1) or insulin resistance (Type 2)",
+    "symptoms": ["Frequent urination", "Excessive thirst", "Unexplained weight loss", "Fatigue", "Blurred vision", "Slow-healing wounds", "Tingling in hands/feet"],
+    "management": [
+      "Regular blood sugar monitoring",
+      "Take prescribed medicines regularly — don't skip",
+      "Diet: less sugar, more fiber, balanced meals",
+      "Exercise: 30 min walking daily",
+      "Annual eye checkup, foot examination",
+      "Control blood pressure and cholesterol"
+    ],
+    "when_to_hospital": "Blood sugar >300 mg/dL, confusion, vomiting, difficulty breathing, unconsciousness (diabetic emergency).",
+    "free_facilities": "Government PHCs provide free diabetes screening and basic medicines. Jan Aushadhi stores have affordable medicines."
+  },
+  "hypertension": {
+    "name": "High Blood Pressure (उच्च रक्तचाप)",
+    "caused_by": "Persistently elevated blood pressure (above 140/90 mmHg)",
+    "symptoms": ["Often no symptoms ('silent killer')", "Headache", "Dizziness", "Blurred vision", "Chest pain", "Shortness of breath"],
+    "management": [
+      "Regular BP monitoring",
+      "Reduce salt intake (<5g/day)",
+      "Take prescribed BP medicines regularly",
+      "Exercise 30 min daily",
+      "Maintain healthy weight",
+      "Limit alcohol, stop smoking",
+      "Manage stress"
+    ],
+    "when_to_hospital": "BP >180/120 with symptoms (headache, chest pain, vision changes, difficulty breathing) — hypertensive emergency.",
+    "complications": "If untreated: stroke, heart attack, kidney damage, vision loss."
+  },
+  "chickenpox": {
+    "name": "Chickenpox (चेचक)",
+    "caused_by": "Varicella-zoster virus (highly contagious, airborne + contact)",
+    "symptoms": ["Itchy rash → blisters → scabs", "Fever", "Fatigue", "Loss of appetite", "Headache"],
+    "care": [
+      "Isolate from others until all blisters have crusted",
+      "Calamine lotion for itching",
+      "Keep nails short (prevent scratching/infection)",
+      "Paracetamol for fever — DO NOT give aspirin",
+      "Soft, bland food",
+      "Oatmeal bath for itch relief"
+    ],
+    "when_to_doctor": [
+      "Infant, pregnant woman, or immunocompromised person affected",
+      "Blisters becoming red, warm, painful (bacterial infection)",
+      "High fever >102°F lasting more than 4 days",
+      "Difficulty breathing or persistent vomiting"
+    ],
+    "prevention": "Varicella vaccine (2 doses). Highly effective."
+  }
+}

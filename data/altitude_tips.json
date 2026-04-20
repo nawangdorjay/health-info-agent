@@ -1,0 +1,100 @@
+{
+  "ladakh": {
+    "region": "Ladakh",
+    "altitude": "3,500m - 5,359m",
+    "key_towns": {
+      "leh": "3,500m",
+      "kargil": "2,676m",
+      "nubra_valley": "3,048m",
+      "pangong": "4,350m",
+      "tso_moriri": "4,522m"
+    },
+    "altitude_sickness": {
+      "what_is_it": "AMS (Acute Mountain Sickness) occurs when your body doesn't get enough oxygen at high altitude. Almost everyone flying to Leh will experience mild symptoms.",
+      "symptoms_mild": ["Headache", "Nausea", "Dizziness", "Fatigue", "Loss of appetite", "Difficulty sleeping"],
+      "symptoms_severe": ["Severe headache not relieved by paracetamol", "Persistent vomiting", "Confusion or difficulty walking straight", "Breathing difficulty at rest", "Blue lips or fingernails (cyanosis)"],
+      "prevention": [
+        "Fly to Leh and REST for 24-48 hours. Do NOT go sightseeing on Day 1.",
+        "Drink 3-4 litres of water daily",
+        "Avoid alcohol for first 3 days",
+        "Avoid sleeping pills",
+        "Eat light, frequent meals",
+        "Acetazolamide (Diamox) 125mg twice daily starting 1 day before arrival — consult doctor first",
+        "Carry pulse oximeter if possible"
+      ],
+      "treatment": [
+        "Rest and oxygen supplementation",
+        "Paracetamol for headache",
+        "Dexamethasone for severe cases (doctor prescription needed)",
+        "Portable hyperbaric bag (Gamow bag) for life-threatening cases",
+        "DESCEND if severe — this is the most effective treatment"
+      ],
+      "when_to_evacuate": [
+        "HACE (High Altitude Cerebral Edema) — confusion, ataxia",
+        "HAPE (High Altitude Pulmonary Edema) — breathlessness at rest, pink frothy sputum",
+        "Symptoms not improving with treatment",
+        "Loss of consciousness"
+      ]
+    },
+    "medical_facilities": {
+      "leh_main": "SNM Hospital — oxygen, ICU, basic surgery. 01982-252247",
+      "nubra": "PHC Diskit — basic OPD only. Serious cases → Leh (5-6 hrs by road)",
+      "pangong": "PHC Tangtse — basic. Very remote.",
+      "kargil": "Sub-District Hospital — decent facilities."
+    },
+    "what_to_carry": [
+      "Paracetamol, Ibuprofen",
+      "ORS packets",
+      "Diamox (after doctor consultation)",
+      "Sunscreen SPF 50+",
+      "Lip balm with SPF",
+      "Moisturizer (skin dries out rapidly)",
+      "Prescription medicines with extra supply",
+      "First aid kit with bandages, antiseptic",
+      "Pulse oximeter (optional but useful)",
+      "Thermal blanket"
+    ]
+  },
+  "spiti valley": {
+    "region": "Spiti Valley, Himachal Pradesh",
+    "altitude": "3,800m - 4,500m",
+    "key_towns": {
+      "kaza": "3,800m",
+      "tabo": "3,280m",
+      "langza": "4,420m"
+    },
+    "medical_facilities": {
+      "kaza": "CHC Kaza — very basic. Referral to Kullu/Manali (8-10 hrs road).",
+      "tabo": "PHC Tabo — minimal facilities."
+    },
+    "key_advice": [
+      "Extremely remote. Stock up on medicines before entering Spiti.",
+      "Road access only from Manali or Shimla — both 8-10+ hours.",
+      "No ATMs in Spiti valley. Carry cash.",
+      "Mobile network: only BSNL works, and barely.",
+      "For emergencies: helicopter evacuation through 108/disaster management."
+    ]
+  },
+  "sikkim": {
+    "region": "Sikkim",
+    "altitude": "1,400m - 8,586m (Kangchenjunga)",
+    "key_towns": {
+      "gangtok": "1,650m",
+      "pelling": "2,150m",
+      "lachung": "2,750m",
+      "lachen": "2,800m",
+      "gurudongmar_lake": "5,430m"
+    },
+    "medical_facilities": {
+      "gangtok": "STNM Hospital — main referral centre. 03592-202025",
+      "north_sikkim": "Very limited. Plan evacuation to Gangtok."
+    },
+    "key_advice": [
+      "Inner Line Permit required for North Sikkim — arrange through travel agent",
+      "Gurudongmar Lake at 5,430m — spend time acclimatizing in Lachung/Lachen first",
+      "AMS risk is real. Don't rush to high altitude.",
+      "Carry altitude sickness medicine and oxygen canister.",
+      "STNM Gangtok is 4-5 hours from North Sikkim."
+    ]
+  }
+}
